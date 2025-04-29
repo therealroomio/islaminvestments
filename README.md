@@ -1,31 +1,90 @@
-# Intro Grid with Hover Motion
+# Islam.Investments
 
-A little hover motion effect on a grid and an intro animation.
+**Islam.Investments** is an evolving Islamic investment resource hub, designed to connect Muslims worldwide with Sharia-compliant financial opportunities.  
 
-![Intro Grid](https://tympanus.net/codrops/wp-content/uploads/2024/05/hovermotion_feat.jpg)
+This project currently uses a simple HTML, CSS, and JavaScript template.  
+At this stage, only the **text and content (copy)** are being updated to reflect the platform’s vision — **no visual or structural changes to the template yet**.
 
-[Article on Codrops](https://tympanus.net/codrops/?p=77934)
+Future updates may include changes to branding elements like colors, logos, and fonts.
 
-[Demo](https://tympanus.net/Development/IntroGridMotionTransition)
+---
 
-## Installation
+## 🌟 Vision
 
-Run this demo on a [local server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/set_up_a_local_testing_server).
+Islam.Investments will become a trusted, central resource for Muslims seeking ethical and Sharia-compliant ways to invest, finance, and grow wealth — while contributing to beneficial causes.  
 
-## Credits
+Our goal is to empower individuals, entrepreneurs, and communities by offering information, tools, and opportunities in areas such as:
 
-- Images generated with [Midjourney](https://midjourney.com)
+- Islamic (interest-free) lending options
+- Sharia-compliant credit cards and financing
+- Ethical investments in sectors like:
+  - Education (building schools)
+  - Technology startups
+  - Commercial and residential real estate
+- Crowdfunding platforms for Muslim entrepreneurs
+- Community-driven investment funds
+- Waqf (Islamic endowment) and charity-focused investment models
+- Verified impact investment opportunities
 
-## Misc
+---
 
-Follow Codrops: [X](http://www.X.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
+## 🛠️ Tech Stack (Current)
 
-## License
-[MIT](LICENSE)
+- HTML5
+- CSS3
+- Vanilla JavaScript (ES6+)
+- Fully responsive, mobile-first approach
 
-Made with :blue_heart:  by [Codrops](http://www.codrops.com)
+> ⚡ Current development focus is **copywriting and content direction only**.  
+> 🎨 Visual updates (branding, fonts, UI improvements) are reserved for a later phase.
 
+---
 
+## 🗺️ Roadmap
 
+### Phase 1: Content Foundation
+- [x] Launch initial version with updated Islamic finance-focused copy.
+- [ ] Write introductory sections explaining Islamic investment principles (e.g., Riba prohibition, Zakat, ethical investing).
+- [ ] Develop category structures for different types of investments and financial resources.
 
+### Phase 2: Directory Building
+- [ ] Research and list Sharia-compliant banks, lending programs, and financing options.
+- [ ] Curate ethical investment opportunities (schools, tech, real estate, startups).
+- [ ] Introduce a simple tagging system (e.g., Halal Finance, Ethical Investment, Community Projects).
 
+### Phase 3: Community and Tools
+- [ ] Create basic forms for users to suggest projects or opportunities.
+- [ ] Build an educational resources section (articles, videos, infographics).
+- [ ] Launch a curated newsletter to share new investments and opportunities.
+
+### Phase 4: Branding and Expansion
+- [ ] Redesign branding: logo, color palette, typography (if necessary).
+- [ ] Explore lightweight CMS integration (to manage content dynamically).
+- [ ] Add language localization (Arabic, Urdu, Turkish, etc.) for global accessibility.
+
+---
+
+## 💡 Future Ideas
+
+- **Islamic Investment Calculator**: Tools to calculate Zakat, Halal returns, profit-sharing models.
+- **Verified Scholar Network**: Showcase scholars and financial advisors certifying Sharia compliance.
+- **Impact Metrics**: Visual dashboards showing the real-world impact of investments (e.g., schools built, startups funded).
+- **Islamic Crowdfunding Platform**: Enable users to directly support businesses and community projects.
+- **Mobile App**: For faster, on-the-go access to new opportunities and updates.
+
+---
+
+## 🤝 Contributions
+
+All contributions are welcome — from copy suggestions to project ideas, research leads, or technical improvements.  
+
+This project is open to anyone passionate about building a more ethical, community-driven Islamic finance ecosystem.
+
+---
+
+## 📜 License
+
+The project is currently private and in active development.  
+A public license (likely MIT or similar) will be decided once the MVP stabilizes.
+
+---
